@@ -1,5 +1,13 @@
 export const tourData = [
   {
+    id: 9,
+    city: "Rineyville",
+    img: "./img/newyork.jpeg",
+    name: "Riney Ville Etown",
+    info:
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, nam omnis error corrupti eum assumenda enim odit architecto corporis. Sequi"
+  },
+  {
     id: 1,
     city: "new york",
     img: "./img/newyork.jpeg",
