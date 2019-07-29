@@ -1,5 +1,4 @@
-<h1>Static React Application</h1>
+## Working static webapp deployed to netlify
 
-Live Website URL
-
-srkcitytours.nelify.com
+### Live URL
+https://srkreacttodolist.netlify.com/
